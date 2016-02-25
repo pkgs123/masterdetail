@@ -1,0 +1,3 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="masterdetail.view.App" displayBlock="true">
+<SplitApp id="idAppControl"/>
+</mvc:View>

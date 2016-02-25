@@ -1,0 +1,7 @@
+<core:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+		controllerName="masterdetail.view.Master" xmlns:html="http://www.w3.org/1999/xhtml">
+	<Page id="masterPage" title="Master Page">
+		<List id="listid" select="onListItemPress" mode="SingleSelectMaster">
+		</List>
+	</Page>
+</core:View>

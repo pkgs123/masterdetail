@@ -1,0 +1,10 @@
+{
+	"SalesOrderCollection": [
+		{
+			"SoId": 300000097,
+			"BillingStatus": "Initial",
+			"OrderingStatusDesc": "Initial",
+			"LifecycleStatus": "P"
+			}
+	]
+}
